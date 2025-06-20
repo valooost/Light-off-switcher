@@ -13,6 +13,7 @@ Wish me luck!
 ________________________________________________________________________________________________________________________________
 June 20th, 10:57
 After a small breakfast (i got up late) I finished my first code, and connnected the Supersonic Sensor.
+
 ![SS-Sensor connect](https://github.com/user-attachments/assets/64cf7565-8ab5-4add-918b-5b5d57c22de2)
 
 VCC - 5V  
@@ -23,7 +24,8 @@ ________________________________________________________________________________
 June 20th, 11:13
 I think I finished the code! (That was faster than expected)
 Now, when the Supersonic-Sensor detects something under 100cm of distance, e.g. a waving hand, it moves the Servo, to switch the light off.
-Next step would be to match it right next to the light switch
+Next step would be to match it right next to the light switch!
+
 ![Servo Connect](https://github.com/user-attachments/assets/dcba93c6-3719-4a8e-b0d1-88b27194d820)
 
 Brown Cable - GND  
