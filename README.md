@@ -23,8 +23,8 @@ GND - GND
 ________________________________________________________________________________________________________________________________
 ## June 20th, 11:13  
 I think I finished the code! (That was faster than expected)
-Now, when the Supersonic-Sensor detects something under 100cm of distance, e.g. a waving hand, it moves the Servo, to switch the light off.
-Next step would be to match it right next to the light switch!
+Now, when the Supersonic-Sensor detects something under 100cm of distance, e.g. a waving hand, it moves the Servo to switch the light off.
+Next step would be to reduce the size, it's still to large
 
 ![Servo Connect](https://github.com/user-attachments/assets/dcba93c6-3719-4a8e-b0d1-88b27194d820)
 
