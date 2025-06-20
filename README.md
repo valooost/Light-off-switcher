@@ -12,4 +12,11 @@ Well, because I am a foolish at IoT, I'll try (as first step) to let the light s
 Wish me luck!
 ________________________________________________________________________________________________________________________________
 June, 20th, 10:57
-After a small breakfast (i got up late) I finished my first code, to conmnect the Supersonic Sensor.
+After a small breakfast (i got up late) I finished my first code, and connnected the Supersonic Sensor.
+![SS-Sensor connect](https://github.com/user-attachments/assets/64cf7565-8ab5-4add-918b-5b5d57c22de2)
+
+VCC - 5V
+Trig(ger) - 7
+Echo - 6
+GND - GND
+________________________________________________________________________________________________________________________________
