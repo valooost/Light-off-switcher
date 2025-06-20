@@ -7,11 +7,11 @@ You may need:
 * MicroServo SG90
 * A lot of cables and patience
 ________________________________________________________________________________________________________________________________
-June 20th, 10:11
+June 20th, 10:11  
 Well, because I am a foolish at IoT, I'll try (as first step) to let the light switch off with an input from a Supersonic Sensor.
 Wish me luck!
 ________________________________________________________________________________________________________________________________
-June 20th, 10:57
+June 20th, 10:57  
 After a small breakfast (i got up late) I finished my first code, and connnected the Supersonic Sensor.
 
 ![SS-Sensor connect](https://github.com/user-attachments/assets/64cf7565-8ab5-4add-918b-5b5d57c22de2)
@@ -21,7 +21,7 @@ Trig(ger) - Pin 7
 Echo - Pin 6  
 GND - GND  
 ________________________________________________________________________________________________________________________________
-June 20th, 11:13
+June 20th, 11:13  
 I think I finished the code! (That was faster than expected)
 Now, when the Supersonic-Sensor detects something under 100cm of distance, e.g. a waving hand, it moves the Servo, to switch the light off.
 Next step would be to match it right next to the light switch!
