@@ -22,7 +22,7 @@ Echo - Pin 6
 GND - GND  
 ________________________________________________________________________________________________________________________________
 ## June 20th, 11:13  
-I think I finished the code! (That was faster than expected)
+I think I finished the whole code! (That was faster than expected)
 Now, when the Supersonic-Sensor detects something under 100cm of distance, e.g. a waving hand, it moves the Servo to switch the light off.
 Next step would be to match them to the board...
 
