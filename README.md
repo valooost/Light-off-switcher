@@ -1,5 +1,5 @@
 # Light-off-switcher
-Tired that your mom wakes you up with this brutal switching-the-light-on? My Idea came from [this Video](https://www.youtube.com/watch?v=XNcZpjLA3yI) (2:47), when a guy presented this. I don't know who this is, but he's a hero.
+Tired that your mom wakes you up with this brutal switching-the-light-on? My Idea came from [this Video](https://www.youtube.com/watch?v=XNcZpjLA3yI) (2:47), when a random guy presented this. I don't know who this is, but he's a hero.
 You may need:
 * Arduino Unor R3 Board
 * Prototype Shield (v.5)
@@ -24,11 +24,18 @@ ________________________________________________________________________________
 ## June 20th, 11:13  
 I think I finished the code! (That was faster than expected)
 Now, when the Supersonic-Sensor detects something under 100cm of distance, e.g. a waving hand, it moves the Servo to switch the light off.
-Next step would be to reduce the size, it's still to large
+Next step would be to match them to the board...
 
 ![Servo Connect](https://github.com/user-attachments/assets/dcba93c6-3719-4a8e-b0d1-88b27194d820)
 
 Brown Cable - GND  
 Red Cable - 5V
 Yellow Cable - Pin 8
+________________________________________________________________________________________________________________________________
+## June 22d, 10:29
+After a longer break I was able to connect the SS-Sensor and the Servo to the perfect position with the board - wit a hot glue gun (Some of you might cry in pain).
+
+![both-glued](https://github.com/user-attachments/assets/6b94b420-e894-4811-b703-2d2bee55c992)
+
+Only the fastening to the wall right next to the switch is left!
 ________________________________________________________________________________________________________________________________
