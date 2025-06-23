@@ -1,7 +1,5 @@
 #include <Servo.h>
 
-#define C4  262
-
 const int trigPin = 7;
 const int echoPin = 6;
 const int servoPin = 8;
@@ -36,7 +34,7 @@ void loop() {
 
   if (distance < 200) {
     Serial.println("Now I'll move the Servo");
-    tone(speakPin, 262);
+    tone(speakPin, distance);
     //262 ^= C4
     myServo.write(position);
     delay(500);
