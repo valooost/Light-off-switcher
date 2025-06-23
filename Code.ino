@@ -1,10 +1,13 @@
 #include <Servo.h>
 
+#define C4  262
+
 const int trigPin = 7;
 const int echoPin = 6;
 const int servoPin = 8;
 
-//A Variable to change the Servo's "Angle", to adjust your Switch's location
+int speakPin = 9;
+
 int position = 80;
 
 Servo myServo;
@@ -31,11 +34,14 @@ void loop() {
   Serial.print(distance);
   Serial.println(" cm");
 
-  if (distance < 100) {
+  if (distance < 200) {
     Serial.println("Now I'll move the Servo");
+    tone(speakPin, 262);
+    //262 ^= C4
     myServo.write(position);
     delay(500);
-    
+    myServo.write(0); 
+    noTone(speakPin);
   }
 
   myServo.write(0); 
