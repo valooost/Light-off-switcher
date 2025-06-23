@@ -29,7 +29,7 @@ Next step would be to match them to the board...
 ![Servo Connect](https://github.com/user-attachments/assets/dcba93c6-3719-4a8e-b0d1-88b27194d820)
 
 Brown Cable - GND  
-Red Cable - 5V
+Red Cable - 5V  
 Yellow Cable - Pin 8
 ________________________________________________________________________________________________________________________________
 ## June 22d, 10:29
@@ -39,3 +39,10 @@ After a longer break I was able to connect the SS-Sensor and the Servo to the pe
 
 Only the fastening to the wall right next to the switch is left!
 ________________________________________________________________________________________________________________________________
+## June 23th, 16🕟
+Another long break, but this time, we have Sound now!
+I don't know why, I realise it's dumb. Let's see how it works.
+
+![speaker](https://github.com/user-attachments/assets/863a4bfb-462b-4c02-8493-298bff4778ac)
+
+Connect the Piezo Speaker to Pin 9
