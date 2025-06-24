@@ -39,10 +39,14 @@ After a longer break I was able to connect the SS-Sensor and the Servo to the pe
 
 Only the fastening to the wall right next to the switch is left!
 ________________________________________________________________________________________________________________________________
-## June 23th, 16🕟
+## June 23th, 16:48
 Another long break, but this time, we have Sound now!
 I don't know why, I realise it's dumb. Let's see how it works.
 
 ![speaker](https://github.com/user-attachments/assets/863a4bfb-462b-4c02-8493-298bff4778ac)
 
 Connect the Piezo Speaker to Pin 9
+________________________________________________________________________________________________________________________________
+## June 24th, 8:35
+Let's cut this crap out.
+________________________________________________________________________________________________________________________________
